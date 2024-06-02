@@ -8,5 +8,3 @@ I am ✨ sarmad ahmed ✨
 - 📫 How to reach me: alkadasi5020@gmail.com
 
 ![Mobile app](mobile-app.gif)
-
-Yey...
