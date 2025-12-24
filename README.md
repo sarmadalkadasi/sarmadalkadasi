@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="./assets/header.png" alt="Spatial Banner" width="50%" 
+    <img src="./assets/header.png" alt="Spatial Banner" height="50%" width="100%" 
     style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.5);">
 </div>
 
