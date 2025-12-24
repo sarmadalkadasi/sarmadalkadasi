@@ -1,11 +1,3 @@
-
-<div align="center">
-    <img src="./assets/header.png" alt="Spatial Banner" height="50%" width="100%" 
-    style="border-radius: 20px; box-shadow: 0px 0px 20px rgba(0, 255, 255, 0.5);">
-</div>
-
-<br />
-
 <div align="center">
   <h1 style="font-size: 3em; color: #fff; text-shadow: 0 0 10px #00FFFF;">Hi there, I am <span style="color: #cb56fada;">Sarmad Ahmed</span> ✨</h1>
   <h3>🚀 IT Engineer | Flutter Developer | Web Developer</h3>
@@ -51,25 +43,8 @@
 <br />
 <br />
 
-<!-- Spatial Stats Grid -->
 <div align="center">
-    <table>
-        <tr>
-            <td align="center" style="background-color: transparent; border: none;">
-                <img src="https://github-readme-stats.vercel.app/api?username=sarmadalkadasi&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&icon_color=bc13fe&hide_border=true" alt="Sarmad's GitHub Stats" />
-            </td>
-            <td align="center" style="background-color: transparent; border: none;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmadalkadasi&layout=compact&theme=transparent&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&hide_border=true" alt="Top Languages" />
-            </td>
-        </tr>
-    </table>
-</div>
-
-<br />
-
-<!-- Floating 3D Element/Gif -->
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200px" style="border-radius: 50%; box-shadow: 0 0 30px rgba(188, 19, 254, 0.4);" alt="Mobile App Gif" />
+    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200px" alt="GitHub" />
 </div>
 
 <br />
